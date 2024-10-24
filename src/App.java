@@ -18,7 +18,7 @@ public class App {
     //    else {
     //     System.out.println("hävisit");
         
-    //    }
+    //    }// Kysytään paljonko käyttäjällä on rahaa?
         System.out.println("Kuinka paljon on rahnua?");
             rahnu = in.nextLine();
             saldo = Integer.parseInt(rahnu);
