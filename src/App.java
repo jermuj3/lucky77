@@ -11,6 +11,7 @@ public class App {
        int saldo = 0;
         int seiskat = 0;
         String rahnu;
+        
       
     //    if (numero1 == 7 || numero2 == 7 || numero3 ==7) {
     //     System.out.println("voitit");
@@ -66,10 +67,13 @@ public class App {
                 
             }
 
+
         }
         System.out.println(x);
         in.close();
         //Tarkistettiin, että ohjelma toimii 
+
+        //ohjelma toimii halutulla tavalla
 
 
 
