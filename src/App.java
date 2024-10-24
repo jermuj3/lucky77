@@ -69,7 +69,7 @@ public class App {
         }
         System.out.println(x);
         in.close();
-        
+        //Tarkistettiin, että ohjelma toimii 
 
 
 
