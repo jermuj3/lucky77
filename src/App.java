@@ -24,7 +24,7 @@ public class App {
             saldo = Integer.parseInt(rahnu);
             
 
-        
+        //arvotaan kolme satunnaista numeroa while loopissa
         int x = 0;
         while(saldo > 0) {
             saldo--;
